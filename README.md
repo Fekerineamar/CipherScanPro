@@ -1,18 +1,4 @@
-# Cipher Scan Pro
-
-      _______       __              _____
-      / ____(_)___  / /_  ___  _____/ ___/_________ _____ 
-     / /   / / __ \/ __ \/ _ \/ ___/\__ \/ ___/ __ `/ __ \\
-    / /___/ / /_/ / / / /  __/ /   ___/ / /__/ /_/ / / / /
-    \____/_/ .___/_/ /_/\___/_/   /____/\___/\__,_/_/ /_/ 
-          /_/                                             
-                        ____           
-                       / __ \_________ 
-                      / /_/ / ___/ __ \\
-                     / ____/ /  / /_/ /
-                    /_/   /_/   \____/ 
-                                                           
-                                    By Cody4code v1.0.1
+![cipherlgo](https://github.com/Fekerineamar/CipherScanPro/blob/master/member/cipherlogo.png)
 
 
 # Cipher Scan Pro
@@ -42,6 +28,8 @@ Cipher Scan Pro is a command-line tool that leverages the Shodan API to search f
 
    **Note:** Please ensure you have a Shodan API key with a membership.
 
+   ![membership](https://github.com/Fekerineamar/CipherScanPro/blob/master/member/sh.png)
+   
 ## Usage
 
 The tool provides several options for searching SSL information:
