@@ -1,4 +1,4 @@
-![cipherlgo](https://github.com/Fekerineamar/CipherScanPro/blob/master/member/cipherlogo.png)
+![cipherlgo](https://github.com/Fekerineamar/Fekerineamar/blob/master/img/cipherlogo.png)
 
 
 # Cipher Scan Pro
@@ -28,7 +28,7 @@ Cipher Scan Pro is a command-line tool that leverages the Shodan API to search f
 
    **Note:** Please ensure you have a Shodan API key with a membership.
 
-   ![membership](https://github.com/Fekerineamar/CipherScanPro/blob/master/member/sh.png)
+   ![membership](https://github.com/Fekerineamar/Fekerineamar/blob/master/img/sh.png)
    
 ## Usage
 
